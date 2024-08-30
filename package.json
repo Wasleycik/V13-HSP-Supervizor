@@ -1,13 +1,13 @@
 {
-  "name": "v13-jaylenozi",
+  "name": "v13-spv",
   "version": "1.0.0",
-  "description": "ananı sikim hayat",
+  "description": "güncellendi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "JaylenOzi",
+  "author": "spv",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^0.8.2",
